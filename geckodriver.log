@@ -1,0 +1,18 @@
+1499530309727	geckodriver	INFO	Listening on 127.0.0.1:41715
+1499530310723	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.SgKoXlhY4hpS
+1499530310724	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1499530310728	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44681
+1499530311473	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1499530313044	Marionette	INFO	Listening on port 44681
+1499530313140	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://translate.google.com/translate/releases/twsfe_w_20170626_RC01/r/js/desktop_module_main.js, line 765: TypeError: window.jstiming.Ad is undefined
+1499530339905	Marionette	INFO	Ceased listening
+1499530343918	geckodriver	INFO	Listening on 127.0.0.1:54631
+1499530344919	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.xzouoyAYuvMg
+1499530344920	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1499530344924	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45357
+1499530345571	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1499530347018	Marionette	INFO	Listening on port 45357
+1499530347055	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/inputtools/js/ita/inputtools_3.js, line 92: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/inputtools/js/ita/inputtools_3.js, line 92: NS_ERROR_NOT_INITIALIZED: 
